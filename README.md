@@ -1,4 +1,4 @@
-# Blog / HTML+CSS
+# Blog
 
 This blog page displays the use of basic text, images, and styling. Coded in HTML and CSS.
 
